@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zafarhussain633
-- 👀 I’m interested in fron end Development specialy with react.
+- 👀 I’m interested in front-end Development specialy with react.
 - 🌱 I’m currently  Working as React developer ...
 - 📫 How to reach me ...
 
